@@ -153,6 +153,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Zuznow](https://www.zuznow.com/?ref=nickparsons.io)
 * [MobiCart](https://www.mobi-cart.com/?ref=nickparsons.io)
 * [Localz](https://localz.com/?ref=nickparsons.io)
+* [Algolia Mobile Search](https://www.algolia.com/mobile?ref=nickparsons.io)
 
 ## Freelance
 
@@ -175,6 +176,10 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [SEMRush](https://www.semrush.com/?ref=nickparsons.io)
 * [SEO Site Cleanup](https://seositecheckup.com/?ref=nickparsons.io)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner?ref=nickparsons.io)
+
+## SEARCH
+
+* [Algolia Search](https://www.algolia.com/?ref=nickparsons.io)
 
 ## Design
 
